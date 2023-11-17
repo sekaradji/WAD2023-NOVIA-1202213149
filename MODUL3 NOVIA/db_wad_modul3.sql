@@ -1,6 +1,6 @@
 -- phpMyAdmin SQL Dump
 -- version 5.2.0
--- https://www.phpmyadmin.net/
+-- https://www.phpmyadmin.net//
 --
 -- Host: 127.0.0.1:3308
 -- Generation Time: Nov 16, 2023 at 03:41 AM

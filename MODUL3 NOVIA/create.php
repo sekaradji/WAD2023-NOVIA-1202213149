@@ -8,7 +8,7 @@ include('connect.php');
 if(isset($_POST['create'])){
 // 
 
-// (3) Jika sudah, coba ambil data dari form (CLUE : pakai POST)
+// (3) Jikas sudah, coba ambil data dari form (CLUE : pakai POST)
 
     // a. Ambil data nama mobil
     $nama_mobil = $_POST['nama_mobil'];
@@ -42,3 +42,4 @@ else {
     exit();
 }
 ?>
+

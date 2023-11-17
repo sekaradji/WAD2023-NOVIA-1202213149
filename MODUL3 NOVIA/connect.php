@@ -17,5 +17,5 @@ $connect = mysqli_connect($host, $username, $password, $database);
 	if(!$connect) {
 		die("Koneksi Gagal Terhubung".mysqli_connect_error());
 	}
-// 
+//
 ?>
